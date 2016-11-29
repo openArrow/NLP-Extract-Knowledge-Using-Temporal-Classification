@@ -47,8 +47,6 @@ pairs_temporal = {(u'verb1', u'verb2'): {'AFTER': 0, 'BEFORE': 1}}
 # 	]
 # }
 
-dict = {"eventChains":[{"eventChain":[{"object":"bat","subject":"eric","verb":"want"},{"object":"bat","subject":"parents","verb":"get"}]},{"eventChain":[{"object":"null","subject":"who","verb":"buy"},{"object":"who","subject":"hooligans","verb":"be"}]},{"eventChain":[{"object":"china","subject":"signals","verb":"convinced"},{"object":"null","subject":"signals","verb":"do"}]},{"eventChain":[{"object":"null","subject":"i","verb":"feel"},{"object":"bit","subject":"i","verb":"play"}]},{"eventChain":[{"object":"null","subject":"we","verb":"fencing"},{"object":"impact","subject":"championship","verb":"have"}]},{"eventChain":[{"object":"control","subject":"i","verb":"gain"},{"object":"meeting","subject":"i","verb":"call"}]},{"eventChain":[{"object":"impression","subject":"i","verb":"get"},{"object":"null","subject":"impression","verb":"adopt"}]},{"eventChain":[{"object":"impact","subject":"championship","verb":"have"},{"object":"null","subject":"they","verb":"tend"}]},{"eventChain":[{"object":"impact","subject":"championship","verb":"have"},{"object":"championship","subject":"null","verb":"win"}]},{"eventChain":[{"object":"progress","subject":"china","verb":"make"},{"object":"progress","subject":"null","verb":"extend"}]},{"eventChain":[{"object":"mistakes","subject":"i","verb":"make"},{"object":"null","subject":"i","verb":"try"}]},{"eventChain":[{"object":"progress","subject":"null","verb":"recognize"},{"object":"presidency","subject":"progress","verb":"hold"}]},{"eventChain":[{"object":"null","subject":"lot","verb":"say"},{"object":"lot","subject":"null","verb":"show"}]},{"eventChain":[{"object":"null","subject":"lot","verb":"say"},{"object":"null","subject":"workers","verb":"stay"}]},{"eventChain":[{"object":"ball","subject":"john","verb":"throw"},{"object":"william","subject":"ball","verb":"hit"}]},{"eventChain":[{"object":"null","subject":"we","verb":"work"},{"object":"we","subject":"i","verb":"come"}]}]}
-
 def findCauseAndAction(verb1, verb2):
 	global pairs_temporal
 
@@ -127,12 +125,12 @@ def makePair(unordered_events):
 def main():
 	global pairs_temporal
 
-	fileObject = open('/home/vatsal/Desktop/pairs_temporal.pkl','r')  	
+	fileObject = open('pairs_temporal.pkl','r')  	
 	pairs_temporal = pickle.load(fileObject) 
 	#print b
 
-	# data_file = open('', 'r')
-	# dict = json.load(data_file)
+	data_file = open('unordered_event.json', 'r')
+	dict = json.load(data_file)
 
 	for i in dict["eventChains"]:
 		event_pairs =  makePair(i['eventChain'])
