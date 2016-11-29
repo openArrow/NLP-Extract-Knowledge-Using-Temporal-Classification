@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Belgian coach Paul Van Himst <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">picked</EVENT> seven players  each from champions Anderlecht and runners-up Bruges here <TIMEX3 tid="t1" type="DATE">Tuesday</TIMEX3> in his squad   for the World Cup football finals in the United States from <TIMEX3 tid="t2" type="DATE">June 17</TIMEX3> to <TIMEX3 tid="t3" type="DATE">July  17</TIMEX3>.&#13;
+Belgium World Cup quad&#13;
+Goalkeepers: Michel Preud'homme (Mechelen), Filip Dewilde (RSC  Anderlecht), Dany Verlinden (Bruges)&#13;
+Defenders: Dirk Medved (Bruges), Georges Grun (AC Parma, Italy), Michel De  Wolf (RSC Anderlecht), Philippe Albert (RSC Anderlecht), Rudi Smidts  (Antwerp), Pascal Renier (Bruges), Vital Borkelmans (Bruges)&#13;
+Midfield: Lorenzo Staelens (Bruges), Franky Van der Elst (Bruges), Eric  Van Meir (Charleroi), Danny Boffin (RSC Anderlecht), Stefan Van der Heyden  (Bruges), Enzo Scifo (AS Monaco, France), Marc Emmers (RSC Anderlecht)&#13;
+Forwards: Marc Degryse (RSC Anderlecht), Josip Weber (Cercle Bruges), Luc  Nilis (RSC Anderlecht), Alexandre Czerniatynski (Mechelen), Marc Wilmots  (Standard Liege)&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Galatasaray, the Istanbul club who <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">knocked</EVENT>  Manchester United of the European Cup, <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> the Turkish league on <TIMEX3 tid="t1" type="DATE">Sunday</TIMEX3>,  <EVENT eid="e3" class="ASPECTUAL" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">finishing</EVENT> a point clear of Fenerbahce after <EVENT eid="e4" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">winning</EVENT> their last game.&#13;
+Selected results&#13;
+Trabzonspor 4 Sariyer 2&#13;
+Galatasaray 2 Bursaspor 0&#13;
+Karsiyaka 0 Fenerbahce 4&#13;
+Final positions (after 30 matches)&#13;
+Galatasaray <EVENT eid="e5" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">70pts</EVENT>, Fenerbahce 69, Trabzonspor 59, Besiktas 54, Samsunspor  50&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t1"/><TLINK relType="AFTER" eventID="e3" relatedToEvent="e4"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

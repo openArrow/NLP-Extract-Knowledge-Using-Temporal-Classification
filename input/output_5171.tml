@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Women's singles quarter-final line-up (x-denotes  seeded player) <EVENT eid="e1" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">following</EVENT> <TIMEX3 tid="t1" type="DATE">Sunday</TIMEX3>'s <EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">matches</EVENT>:&#13;
+Steffi Graf (Ger x1) versus Ines Gorrochategui (Arg)&#13;
+Petra Ritter (Austria) v. Mary Pierce (France x-12)&#13;
+Sabine Hack (Ger x16) v. Conchita Martinez (Spain x3)&#13;
+Julie Halard (France) v. Arantxa Sanchez (Spain x2)&#13;
+kd94&#13;
+<TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

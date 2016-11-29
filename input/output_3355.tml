@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>The coach is, however, <EVENT eid="e1" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">counting</EVENT> on striker Hwang Sung-hong, who was also  in Italy. The <TIMEX3 tid="t1" type="DURATION">25-year-old</TIMEX3> forward <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">proved</EVENT> his sharpness in recent friendlies.  "The success of our team depends on Hwang," Kim <EVENT eid="e3" class="REPORTING" tense="PAST" aspect="NONE" polarity="POS" modality="none">said</EVENT>.&#13;
+Goalkeeper Choi In-young and midfielders Hong Myung-bo, skipper Gu  Sang-bum and Lee Young-jin are also veterans of the last World Cup.&#13;
+Another midfielder Noh Jung yoon, who is the only Korean in Japan's J  League where he <EVENT eid="e4" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">plays</EVENT> with Sanfrecce Hiroshima, was an outstanding performer  in the qualifying competition although there are doubts about his stamina.&#13;
+He rarely <EVENT eid="e5" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">lasted</EVENT> whole matches in the heat and humidity of the Asian  finals.&#13;
+Park Jung bae is the side's solid defensive leader.&#13;
+South Korea factfile&#13;
+Manager: Kim Ho&#13;
+South Korean federation : Founded <TIMEX3 tid="t2" type="DATE">1928</TIMEX3>, 476 clubs, 11.000 players.&#13;
+Colours: All red&#13;
+Key players: Noh Jung-yoon, Kim Joo-sung, Hwang Sung-hong, Park Jung-bae&#13;
+World Cup: Fourth appearance&#13;
+How thex <EVENT eid="e6" class="I_STATE" tense="PAST" aspect="NONE" polarity="POS" modality="none">qualified</EVENT>: Runners-up in second round of Asian qualifiers&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e5" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e6" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

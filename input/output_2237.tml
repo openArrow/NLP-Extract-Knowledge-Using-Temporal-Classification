@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Iceland <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> Bolivia 1-0 (0-0) in an  international friendly football match here <TIMEX3 tid="t1" type="DATE">Thursday</TIMEX3>.&#13;
+Result&#13;
+Iceland 1 Bolivia 0&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

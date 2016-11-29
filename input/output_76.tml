@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>The dollar <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">opened</EVENT> at 104.15 yen in Tokyo on <TIMEX3 tid="t1" type="DATE">Friday</TIMEX3>,  up 0.05 yen from the previous day's finish of 104.10 yen.&#13;
+The opening rate was slightly below New York's late <TIMEX3 tid="t2" type="DATE">Thursday</TIMEX3> quote of  104.22 yen.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

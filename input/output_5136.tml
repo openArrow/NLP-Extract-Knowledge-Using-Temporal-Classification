@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>World Cup qualifiers Switzerland <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT>  Lichtenstein 2-0 in a friendly international here <TIMEX3 tid="t1" type="DATE">Sunday</TIMEX3>.&#13;
+Result&#13;
+Switzerland 2 (Herr 30, Hottiger 65) Lichtenstein 0&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

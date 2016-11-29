@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Close of play scores in <TIMEX3 tid="t1" type="DATE">Thursday</TIMEX3>'s English county  championship <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">matches</EVENT>:&#13;
+Hove: Sussex v Glamorgan. No play, rain.&#13;
+Gloucester: Gloucestershire v Surrey. No play, rain.&#13;
+Leicester: Leicestershire v Kent. No play, rain.&#13;
+Southport: Lancashire 288-4 (J P Crawley <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">119</EVENT> not out, N J Speak 87, J E R  Gallian 53) v Somerset.&#13;
+Worcester: Worcestershire v Northamptonshire. No play, rain.&#13;
+Ilkeston: Derbyshire 211-7 v Nottinghamshire.&#13;
+Lord's: Middlesex v Warwickshire. No play, rain.&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

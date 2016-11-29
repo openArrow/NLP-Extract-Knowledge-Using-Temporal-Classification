@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Australian cricket tour itinerary of Sri Lanka and  Pakistan in <TIMEX3 tid="t1" type="DATE">September-November</TIMEX3>.&#13;
+SRI LANKA&#13;
+Sept  4  Sri Lanka v India (d/n), Kettharama Stadium&#13;
+Sept  7  Australia v Pakistan, Tyrone Fernando Stadium&#13;
+Sept  9  Australia v India (d/n), Kettharama Stadium&#13;
+Sept 11  Sri Lanka v Pakistan, SSC Grounds&#13;
+Sept 13  Australia v Sri Lanka, P. Sara Stadium&#13;
+Sept 15  India v Pakistan (d/n), Kettharama Stadium&#13;
+Sept 17  Final (d/n), Kettharama Stadium&#13;
+PAKISTAN&#13;
+Sept 23-25 Three day match, Rawalpindi&#13;
+Sept 28-Oct 2 First Test, Pakistan v Australia, Karachi&#13;
+Oct 5-9  Second Test, Pakistan v Australia, Rawalpindi&#13;
+Oct 12  Australia v South Africa, Faisalabad&#13;
+Oct 14  Pakistan v Australia, <EVENT eid="e1" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">Multan</EVENT>&#13;
+Oct 16  Pakistan v South Africa, Karachi&#13;
+Oct 18  Australia v South Africa, Gujranwala&#13;
+Oct 20  Pakistan v South Africa, Rawalpindi&#13;
+Oct 22  Pakistan v Australia, Rawalpindi&#13;
+Oct 24  Australia v South Africa, Peshawar&#13;
+Oct 26  Pakistan v Australia, Lahore&#13;
+Oct 28  Pakistan v South Africa, Faisalabad&#13;
+Oct 30  Final, Lahore&#13;
+Nov 1-5 Third Test, Pakistan v Australia, Lahore&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

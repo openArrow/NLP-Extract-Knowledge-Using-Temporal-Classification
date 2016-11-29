@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Argentina <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> the United States  28-22 here this weekend in a 1995 Rugby World Cup qualifier.&#13;
+The Pumas had tries from Martin Teran, Patricio Noriega and Jose  Santamarina.&#13;
+The Eagles' total included tries fry Tomasi Takau and Andre Bachelet.&#13;
+The United States travel to Buenos Aires for the return match on <TIMEX3 tid="t1" type="DATE">June 20</TIMEX3>.&#13;
+If the two sides <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">split</EVENT> the matches, the team with the most tries in both  matches will <EVENT eid="e3" class="OCCURRENCE" tense="FUTURE" aspect="NONE" polarity="POS" modality="none">advance</EVENT>. If that decider still <EVENT eid="e4" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">leaves</EVENT> them level, the team with  the most total points in the two matches will <EVENT eid="e5" class="OCCURRENCE" tense="FUTURE" aspect="NONE" polarity="POS" modality="none">earn</EVENT> the World Cup berth.&#13;
+bb94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e3" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e5" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Brazil <EVENT eid="e1" class="STATE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">stay</EVENT> top of FIFA's rankings <TIMEX3 tid="t1" type="DURATION">a month</TIMEX3> before  the World Cup <EVENT eid="e2" class="ASPECTUAL" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">starts</EVENT> in the United States.&#13;
+Sweden <EVENT eid="e3" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">move</EVENT> up six places to <EVENT eid="e4" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">third</EVENT> behind Germany.&#13;
+Fifteen of the World Cup qualifiers are in the top 20. European champions  Denmark, fifth, are the highest ranked non-qualifiers.&#13;
+Saudi Arabia (35th), South Korea (37th) and Bolivia (43rd) are the  lowest-ranked qualifiers.&#13;
+Raninkgs&#13;
+1. Brazil, 2. Germany, 3. Sweden, 4. Norway, 5. Denmark, 6  Argentina, 7.  Nigeria, 8. Switzerland, 9. Spain, 10. Romania, 11. Holland, 12. Ireland, 13.  Mexico, 14. Uruguay, 15. England, 16. Italy, 17. France, 18. Colombia, 19.  Zambia, 20. Russia&#13;
+Other World Cup qualifiers&#13;
+23. USA, 24. Cameroon, 29. Bulgaria, 30. Morocco, 32. Greece, 34. Belgium,  35. Saudi Arabia, 37. Korea, 43. Bolivia&#13;
+rw94&#13;
+<TLINK relType="AFTER" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToEvent="e4"/><TLINK relType="BEFORE" eventID="e1" relatedToEvent="e2"/></TimeML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>World Cup <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">fixtures</EVENT>.&#13;
+1st Rd&#13;
+Group A&#13;
+Sat <TIMEX3 tid="t1" type="DATE">June</TIMEX3> 18/ USA v Switzerland (Detroit), Colombia v Romania (Los  Angeles), Wed <TIMEX3 tid="t2" type="DATE">June 22</TIMEX3>: USA v Colombia (Los Angeles), Switzerland v Romania  (Detroit), Sun <TIMEX3 tid="t3" type="DATE">June 26</TIMEX3>: Switzerland v Colombia (San Francisco), USA v Romania  (Los Angeles)&#13;
+Group B&#13;
+Sun <TIMEX3 tid="t4" type="DATE">June 19</TIMEX3>: Cameroon v Sweden (Los Angeles), Mon <TIMEX3 tid="t5" type="DATE">June 20</TIMEX3>: Brazil v Russia  (San Francisco), Fri <TIMEX3 tid="t6" type="DATE">June 24</TIMEX3>: Brazil v Cameroon (San Francisco), Russia v  Sweden (Detroit), Tues <TIMEX3 tid="t7" type="DATE">June 28</TIMEX3>: Russia v Cameroon (San Francisco), Brazil v  Sweden (Detroit)&#13;
+Group C&#13;
+Fri <TIMEX3 tid="t8" type="DATE">June 17</TIMEX3>: Germany v Bolivia (Chicago), Spain v South Korea (Dallas),  Tues <TIMEX3 tid="t9" type="DATE">June 21</TIMEX3>: Germany v Spain (Chicago), Thu <TIMEX3 tid="t10" type="DATE">June 23</TIMEX3>: South Korea v Bolivia  (Boston), Mon <TIMEX3 tid="t11" type="DATE">June 27</TIMEX3>: Bolivia v Spain (Chicago), Germany v South Korea  (Dallas)&#13;
+Group D&#13;
+Tues <TIMEX3 tid="t12" type="DATE">June 21</TIMEX3>: Argentina v Greece (Boston), Nigeria v Bulgaria (Dallas),  Sat <TIMEX3 tid="t13" type="DATE">June 25</TIMEX3>: Argentina v Nigeria (Boston), Sun <TIMEX3 tid="t14" type="DATE">June 26</TIMEX3>: Greece v Bulgaria  (Boston), Thu <TIMEX3 tid="t15" type="DATE">June 30</TIMEX3>: Greece v Nigeria (Boston), Argentina v Bulgaria (Dallas)&#13;
+Group E&#13;
+Sat <TIMEX3 tid="t16" type="DATE">June 18</TIMEX3>: Italy v Ireland (New York), Sun <TIMEX3 tid="t17" type="DATE">June 19</TIMEX3>: Norway v Mexico  (Washington), Thu <TIMEX3 tid="t18" type="DATE">June 23</TIMEX3>: Italy v Norway (New York), Fri <TIMEX3 tid="t19" type="DATE">June 24</TIMEX3>: Ireland v  Mexico (Orlando) Tues <TIMEX3 tid="t20" type="DATE">June 28</TIMEX3>: Ireland v Norway (New York), Tues <TIMEX3 tid="t21" type="DATE">June 28</TIMEX3>:  Italy v Mexico (Washington)&#13;
+Group F&#13;
+Sun <TIMEX3 tid="t22" type="DATE">June 19</TIMEX3>: Belgium v Morocco (Orlando), Mon <TIMEX3 tid="t23" type="DATE">June 20</TIMEX3>: Holland v Saudi  Arabia (Washington), Sat <TIMEX3 tid="t24" type="DATE">June 25</TIMEX3>: Morocco v Saudi Arabia (New York), Belgium v  Holland (Orlando), Wed <TIMEX3 tid="t25" type="DATE">June 29</TIMEX3>: Morocco v Holland (Orlando), Belgium v Saudi  Arabia (Washington)&#13;
+2nd Rd&#13;
+(The group winners and the runners-up qualify, together with the four best  third-placed teams)&#13;
+Sat <TIMEX3 tid="t26" type="DATE">July 21</TIMEX3>: 1C v 3A/B/F (Chicago, match 4), 2A v 2C (Washington, match 6),  Sun <TIMEX3 tid="t27" type="DATE">July 3</TIMEX3>: 1A v 3C/D/F (Los Angeles, match 1), 2B v 2F (Dallas, match 2), Mon  <TIMEX3 tid="t28" type="DATE">July 4</TIMEX3>: 1B v 3A/C/D (San Francisco, match 8), 1F v 2E (Orlando, match 7), Tues  <TIMEX3 tid="t29" type="DATE">July 5</TIMEX3>: 1D v 3B/E/F (Boston, match 5), 1E v 2D (New York, match 3)&#13;
+Quarter-finals&#13;
+Sat <TIMEX3 tid="t30" type="DATE">July 9</TIMEX3>: Winner 5 v Winner 6 (Boston, match C), Winner 7 v Winner 8  (Dallas, match D), Sun <TIMEX3 tid="t31" type="DATE">July 10</TIMEX3>: Winner 1 v Winner 2 (San Francisco, match A),  Winner 3 v Winner 4 (New York, match B)&#13;
+Semi-finals&#13;
+Wed <TIMEX3 tid="t32" type="DATE">July 13</TIMEX3>: Winner A v Winner D (Los Angeles, match E), Winner B v Winner  C (New York, match F)&#13;
+Third-place play-off&#13;
+Sat <TIMEX3 tid="t33" type="DATE">July 16</TIMEX3>: Loser E v Loser F (Los Angeles)&#13;
+Final&#13;
+Sun <TIMEX3 tid="t34" type="DATE">July 17</TIMEX3>: Winner E v Winner F (Los Angeles)&#13;
+rw94&#13;
+</TimeML>

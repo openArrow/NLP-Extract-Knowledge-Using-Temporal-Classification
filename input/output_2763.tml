@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>English champions and FA Cup winners,  Manchester United, have <EVENT eid="e1" class="STATE" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="none">parted</EVENT> company with long-serving physiotherapist Jim  McGregor "by mutual consent".&#13;
+McGregor, a popular figure with the Old Trafford crowd, was previously  with Oldham and Everton.&#13;
+dm94am&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

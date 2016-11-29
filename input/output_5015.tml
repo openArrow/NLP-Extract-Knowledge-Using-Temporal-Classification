@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Scores of qualifiers after the second  round of the PGA championship here on <TIMEX3 tid="t1" type="DATE">Saturday</TIMEX3> (Great Britain and Ireland  unless <EVENT eid="e1" class="I_ACTION" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">stated</EVENT>):&#13;
+132 - Ernie Els (SA) 66 66.&#13;
+134 Miguel-Angel Jimenez (Spain) 68 66.&#13;
+135 - Jose Maria Olazabal (Spain) 67 68.&#13;
+136 - Adam Hunter 71 65.&#13;
+137 - Costantino Rocca (Italy) 67 70.&#13;
+138 - Joakim Haeggman (Swe) 69 69, Peter Hedblom (Swe) 69 69.&#13;
+139 - Seve Ballesteros (Spain) 73 66, Bernhard Langer (Ger) 69 70, Paul  Lawrie 69 70, Gordon J Brand 70 69, Pierre Fulke (Swe) 72 67, Peter Teravainen  (US) 70 69, Sandy Lyle 68 71, Anders Forsbrand (Swe) 69 70, Frank Nobilo (NZ)  73 66.&#13;
+140 - Peter Baker 73 67, Mats Lanner (Swe) 70 70, D R Jones 69 71, Mark  James 68 72, Barry Lane 70 70.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

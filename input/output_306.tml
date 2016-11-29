@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>The Italian cabinet <TIMEX3 tid="t1" type="DATE">Friday</TIMEX3> <EVENT eid="e1" class="I_ACTION" tense="PAST" aspect="NONE" polarity="POS" modality="none">chose</EVENT> 37 undersecretaries  of state, 12 of them neo-fascists.&#13;
+The previous governmment had 39 undersecretaries of state.&#13;
+The list means that the neo-fascist National Alliance has either a  minister or an undersecretary in each ministry.&#13;
+Thirteen of the new posts <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">went</EVENT> to members of Prime Minister Silvio  Berlusconi's Forza Italia, 10 to the federalist Northern League and two to the  Democratic-Christian Centre.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

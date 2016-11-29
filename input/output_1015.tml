@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>World golf rankings <EVENT eid="e1" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">published</EVENT> here on <TIMEX3 tid="t1" type="DATE">Monday</TIMEX3>:&#13;
+1. Greg Norman (Australia)        21.96pts&#13;
+2. Nick Faldo (England)           19.16&#13;
+3. Nick Price (Zimbabwe)          16.60&#13;
+4. Bernhard Langer (Germany)      15.80&#13;
+5. Fred Couples (USA)             14.69&#13;
+6. Paul Azinger (USA)             12.46&#13;
+7. Jose Maria Olazabal (Spain)    11.30&#13;
+8. Ian Woosnam (Wales)            10.85&#13;
+9. David Frost (S Africa)         10.64&#13;
+10. Colin Montgomerie (Scotland)  10.33&#13;
+11. Corey Pavin (USA)             10.04&#13;
+12. Tom Kite (USA)                 9.64&#13;
+13. Masashi Ozaki (Japan)          8.86&#13;
+14. Ernie Els (S Africa)           8.27&#13;
+15. Davis Love III (USA)           8.01&#13;
+16. Vijay Singh (Fiji)             7.73&#13;
+17. Payne Stewart (USA)            7.68&#13;
+18. Mark McNulty (Zimbabwe)        7.47&#13;
+19. Fuzzy Zoeller (USA)            7.08&#13;
+20. Larry Mize (USA)               6.78&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

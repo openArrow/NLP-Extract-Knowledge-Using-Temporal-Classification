@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Friday</TIMEX3>'s <EVENT eid="e1" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">close</EVENT> of play cricket scoreboards from the  English county championship:&#13;
+Gateshead:&#13;
+Durham 305 (W Larkins 158 not out, C A Walsh 5 88) and 115-6&#13;
+Gloucestershire 169.&#13;
+Derby:&#13;
+Derbyshire 188&#13;
+Worcestershire 164-4.&#13;
+(No play <TIMEX3 tid="t2" type="DATE">Friday</TIMEX3>, rain).&#13;
+Southampton:&#13;
+Middlesex 387 (M R Ramprakash 83, J D Carr 79, N F Williams 63, M W  Gatting 51, M J Thursfield 6-130)&#13;
+Hampshire 203-9 (M Keech 57, N F Williams 5-49).&#13;
+Canterbury:&#13;
+Kent 556 (M R Benson 90, C L Hooper 83, S A Marsh 72, M V Fleming 72, T R  Ward 56, N R Taylor 54)&#13;
+Lancashire 171-4.&#13;
+Nottingham:&#13;
+Nottinghamshire 368-7 (J C Adams 121, K P Evans 104) v Sussex.&#13;
+(No play <TIMEX3 tid="t3" type="DATE">Friday</TIMEX3>, rain).&#13;
+Taunton:&#13;
+Somerset 355-9 dec (A N Hayhurst 111 not out, M N Lathwell 86)&#13;
+Warwickshire 57-0.&#13;
+The Oval:&#13;
+Surrey 181 (C E L Ambrose 5-38) and 322-8 (A D Brown 90, D M Ward 80, A J  Hollioake <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">66</EVENT> not out)&#13;
+Northamptonshire 188 (R J Bailey 59, J E Benjamin 6-57).&#13;
+Leeds:&#13;
+Yorkshire 307 (C White 108 not out, D Byas 59, M C Ilott 5 89) and 43-1&#13;
+Essex 188 (P J Prichard 50, C White 5-40).&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

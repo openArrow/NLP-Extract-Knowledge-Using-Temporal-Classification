@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Spain coach Javier Clemente <EVENT eid="e1" class="I_ACTION" tense="PAST" aspect="NONE" polarity="POS" modality="none">named</EVENT> nine players from  Barcelona players in his World Cup squad on <TIMEX3 tid="t1" type="DATE">Thursday</TIMEX3>.&#13;
+Spanish squad&#13;
+Goalkeepers&#13;
+Andoni Zubizarreta (Barcelona), Julian Lopetegui (Logrones), Jose Luis  Canizares (Celta Vigo)&#13;
+Defenders&#13;
+Miguel Angel Nadal, Albert Ferrer, Sergi (Barcelona), Rafael Alkorta (Real  Madrid), Francisco Jose Camarasa (Valencia), Salvador Gonzalez 'Voro'  (Deportivo La Coruna), Jorge Otero (Celta Vigo), Antuna Fernandez Abelardo  (<EVENT eid="e2" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">Sporting</EVENT> Gijon)&#13;
+Midfield&#13;
+Jose Maria Bakero, Josep Guardiola, Guilermo Amor, Aitor Beguiristain  (Barcelona), Fernando Hierro, Luis Enrique (Real Madrid), Jose Luis Perez  Caminero (Atletico  Madrid), Julen Guerrero (Athletic Bilbao)&#13;
+Forwards&#13;
+Julio Salinas (Barcelona), Juan Castano 'Juanele' (<EVENT eid="e3" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">Sporting</EVENT> Gijon), Felipe  Minambres (Tenerife)&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Following is the list of the new Togo government  <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">formed</EVENT> <TIMEX3 tid="t1" type="DATE">Wednesday</TIMEX3>:&#13;
+President:                               Gnassingbe Eyadema&#13;
+Prime Minister:                          Edem Kodjo&#13;
+Justice:                                 Kangni Gabriel Akakpovie&#13;
+Defence:                                 Alfa Abalo&#13;
+Economy and Finance:                     Elom Emile Dadzie&#13;
+Foreign Affairs, Cooperation:            Boumbera Alassounouma&#13;
+Interior, Decentralisation:              Kodjo Sagbo&#13;
+Planning:                                Yandja Yentchabre&#13;
+Education, Scientific Research:          Komlavi Seddoh&#13;
+Communications, Culture:                 Atsutse Agbobli&#13;
+Human Rights, Relations with Parliament: Djovi Gali&#13;
+Industry:                                Payadowa Boukpessi&#13;
+Equipment:                               Tchamdja Andjo&#13;
+Energy:                                  Anato Agbozouhoue&#13;
+Rural Development, Environment, Tourism: Yao Do Felli&#13;
+Trade, Prices, Transport:                Dedevi Michele Ekue&#13;
+Employment, Civil Service:               Ismael Kpandja Binguitcha-Fare&#13;
+Health, Population:                      Afatsao Amedome&#13;
+Technical education, Training:           Bamouni Somolou Stanislas Baba&#13;
+Youth, Sports:                           Kouami Agbogboli Ihou&#13;
+Secretary of State for Security:         Colonel Seyi Memene&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Herewith a list of the 23 films in the main  competition at the 47th Cannes International Film Festival, <TIMEX3 tid="t1" type="DATE">May 12-23</TIMEX3>, in the  order they were <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">presented</EVENT>.&#13;
+The festival was <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="none">preparing</EVENT> <TIMEX3 tid="t2" type="DATE">Monday</TIMEX3> for its grand finale later in <TIMEX3 tid="t3" type="DATE">the day</TIMEX3>  with the <EVENT eid="e3" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">announcement</EVENT> of <TIMEX3 tid="t4" type="DATE">this year</TIMEX3>'s coveted Golden Palm, the top award.&#13;
+-  "The Hudsucker Proxy" by Joel and Ethan Coen of the United States.  <EVENT eid="e4" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">Opened</EVENT> the festival.&#13;
+-  "La Reine Margot" (Queen Margot) by Patrice Chereau of France.&#13;
+-  "Du Li Shi Dai" by Edward Yang of Taiwan.&#13;
+-  "Mrs. Parker and the Vicious Circle" by Alan Rudolph, United States.&#13;
+-  "Riaba My Chicken" by Andrei Konchalovsky of Russia.&#13;
+-  "Una Pura Formalita" (A Simple Formality) by Giuseppe Tornatore,  Italian.&#13;
+-  "Exotica" by Atom Egoyan, a Canadian.&#13;
+-  "Three Colours Red" by Poland's Krzysztof Kieslowski.&#13;
+-  "The Browning Version" by Mike Figgis of Britain.&#13;
+-  "Huozhe" (To Live) by China's Zhang Yimou.&#13;
+-  "Under the Olive Trees" by Abbas Kiarostami, an Iranian.&#13;
+-  "Le Buttane" (The Whores) by Aurelio Grimaldi of Italy.&#13;
+-  "Grosse Fatigue" (Very Tired) by Michel Blanc of France.&#13;
+-  "Barnabo delle Montagne" (Barnabo of the Mountains) by Italy's Mario              Brenta.&#13;
+-  "Caro Diario" (Dear Diary) by Italian Nanni Moretti.&#13;
+-  "La Reina de la Noche" (Queen of the Night) by Mexico's Arturo Ripstein.&#13;
+-  "An Unforgettable Summer" by Lucian Pintilie of Romania.&#13;
+-  "Les Patriotes" (The Patriots) by Eric Rochant of France.&#13;
+-  "Neak Sre" (Rice People) by Cambodia's Rithy Panh.&#13;
+-  "Utomlionye Solntsem" (Burnt by the Sun) by Nikita Mikhalkov, of Russia.&#13;
+-  "Pulp Fiction" by Quentin Tarantino, of the United States.&#13;
+-  "Le Joueur de Violon" (The Violinist) by Charlie Van Damme, of Belgium.&#13;
+-  "Swaham" by Shaji N. Karun of India.&#13;
+The films to be <EVENT eid="e5" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">shown</EVENT> out of competition: "Serial Mom" by John Waters of  the United States (which <EVENT eid="e6" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">closed</EVENT> the festival), and "Montand" by Jean Labib of  France.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e6" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t3"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t4"/><TLINK relType="AFTER" eventID="e2" relatedToEvent="e3"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t3"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t4"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t2"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

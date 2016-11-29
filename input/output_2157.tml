@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Thursday</TIMEX3>'s <EVENT eid="e1" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">close</EVENT> of play scores in <TIMEX3 tid="t2" type="DATE">first day</TIMEX3> of  English county championship <EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">matches</EVENT>:&#13;
+Nottingham: Nottinghamshire 368-7 (J C Adams 121, K P Evans 104) v Sussex.&#13;
+Southampton: Middlesex 280-8 (M R Ramprakash 83, J D Carr 79, M W Gatting  51) v Hampshire.&#13;
+Canterbury: Kent 403-6 (M R Benson 90, C L Hooper 83, T R Ward 56, N R  Taylor 54) v Lancashire.&#13;
+Leeds: Yorkshire 300-8 (C White 102 not out, D Byas 59) v Essex.&#13;
+Taunton: Somerset 255-5 (M N Lathwell 86, A N Hayhurst <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">76</EVENT> not out) v  Warwickshire.&#13;
+Derby: Derbyshire 188, Worcestershire 164-4.&#13;
+The Oval: Surrey 181 (C E L Ambrose 5 38), Northamptonshire 123-3 (R J  Bailey <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">55</EVENT> not out).&#13;
+Gateshead: Durham 305 (W Larkins 158 not out, C A Walsh 5 88),  Gloucestershire 52-2.&#13;
+dm94am&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

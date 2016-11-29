@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Indonesia <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> the Uber Cup here on <TIMEX3 tid="t1" type="DATE">Friday</TIMEX3> when  they <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> defending champions China 3-2 in the final of the biannual women's  championship here <TIMEX3 tid="t2" type="DATE">Friday</TIMEX3>.&#13;
+Results (Indonesian names first)&#13;
+Indonesia bt China 3-2&#13;
+Susi Susanti bt Ye Zhaoying 11-4, 12-10&#13;
+Lili Tampi/Finarsih bt Wu Yuhong/Chen Ying 15-13, 17-16&#13;
+Yuliani Sentosa <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">lost</EVENT> to Han Jingna 5-11, 5-11&#13;
+Eliza/Zelin Resiana <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">lost</EVENT> to Ge Fei/Gu Jun 10-15, 8-15&#13;
+Mia Audina bt Zhang Ning 11-7, 10-12, 11-4&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="AFTER" eventID="e1" relatedToEvent="e2"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t2"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

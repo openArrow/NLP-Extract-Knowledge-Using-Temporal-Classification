@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Close of play score on <TIMEX3 tid="t1" type="DATE">first day of three-day</TIMEX3> <EVENT eid="e1" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">tour</EVENT>  match between Middlesex and New Zealand at Lord's on <TIMEX3 tid="t2" type="DATE">Thursday</TIMEX3>.&#13;
+New Zealand First Innings&#13;
+B.A. Young  c Carr b Shine              11&#13;
+B.R. Hartland  c Brown b Shine          12&#13;
+M.J. Greatbatch  c Pooley b Feltham     14&#13;
+K.R. Rutherford c Ramprakash b Shine     0&#13;
+S.P. Fleming not out                    67&#13;
+S.A. Thomson c Brown b Feltham           5&#13;
+A.C. Parore  c Brown b Taylor           36&#13;
+G.R. Larsen not out                      2&#13;
+Extras  (lb3, w1, nb4)                   8&#13;
+Total (6 wkts, 66 overs)               155&#13;
+Fall of wickets: 1-22, 2-31, 3-31, 4-68, 5-82, 6-146&#13;
+To Bat: M.N. Hart, D.J. Nash, D.K. Morrison&#13;
+Bowling&#13;
+Shine 16-5-55-3, Johnson 14-5-25-0, Taylor 9-3-24-1, Feltham 13-5-19-2,  Weekes 14-3-29-0&#13;
+dm94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t2"/></TimeML>

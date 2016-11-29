@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Gabriela Sabatini is one match away from <EVENT eid="e1" class="ASPECTUAL" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">ending</EVENT>  her <TIMEX3 tid="t1" type="DURATION">two year</TIMEX3> run without a tournament victory.&#13;
+The Argentinian, whose last win was at the <TIMEX3 tid="t2" type="DATE">1992</TIMEX3> Italian Open, <EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">meets</EVENT> Mary  Joe Fernandez in the final of the Strasbourg tournament here on <TIMEX3 tid="t3" type="DATE">Sunday</TIMEX3> after  <EVENT eid="e3" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">beating</EVENT> <EVENT eid="e4" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">rising</EVENT> young Croat Iva Majoli and Austria's Judith Wiesner in <TIMEX3 tid="t4" type="DATE">the  quarter</TIMEX3> and semi-finals here on <TIMEX3 tid="t5" type="DATE">Saturday</TIMEX3>.&#13;
+Quarter finals&#13;
+Gabriela Sabatini (Argentina x1) bt Iva Majoli (Croatia x5) 6-3, 4-6, 6-2&#13;
+Judith Wiesner (Austria x7) bt Sabine Appelmans (Belgium <EVENT eid="e5" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">x4</EVENT>) 6-2, 7-6 (7/4)&#13;
+Mary Joe Fernandez (USA x3) bt Lori McNeil (USA x8) 6-4, 4-6, 6-3&#13;
+Kimiko Date (Japan x2) bt Naoko Sawamatsu (Japan x6) 6-3, 6-4&#13;
+Semi finals&#13;
+Sabatini bt Wiesner 6-4, 4-6, 6-3&#13;
+Fernandez bt Date 3-6, 6-4, 6-1&#13;
+<TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t4"/><TLINK relType="IS_INCLUDED" eventID="e4" relatedToTime="t4"/><TLINK relType="AFTER" eventID="e2" relatedToEvent="e3"/><TLINK relType="IS_INCLUDED" eventID="e4" relatedToTime="t5"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t5"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t3"/></TimeML>

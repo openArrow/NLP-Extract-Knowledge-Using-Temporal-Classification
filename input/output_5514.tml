@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>New Zealand <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">drew</EVENT> with Essex at the end  of their <TIMEX3 tid="t1" type="DURATION">three day</TIMEX3> <EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">match</EVENT> here on <TIMEX3 tid="t2" type="DATE">Monday</TIMEX3>:&#13;
+New Zealand <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> toss. First innings 428-5 <EVENT eid="e4" class="I_ACTION" tense="PAST" aspect="NONE" polarity="POS" modality="none">declared</EVENT> (K R Rutherford 129, B  A Young 122, S A Thomson <EVENT eid="e5" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">52</EVENT> not out).&#13;
+Essex First Innings&#13;
+G.A. Gooch c Crowe b Nash       42&#13;
+J.P. Stephenson b Nash          32&#13;
+P.J. Prichard b Hart             9&#13;
+N. Hussain lbw b Nash           71&#13;
+J.J.B. Lewis <EVENT eid="e6" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">run</EVENT> out             7&#13;
+R.C. Irani c Fleming b Davis    83&#13;
+R.J. Rollins c Crowe b Hart      9&#13;
+M.S.Kasprowicz c Nash b Larsen  28&#13;
+M.C. Ilott b Hart               11&#13;
+P.M. Such b Hart                24&#13;
+J.H. Childs not out              1&#13;
+Extras: (lb3 nb14)              17&#13;
+Total: (126 overs)             334&#13;
+Fall: 1-82, 2-97, 3-97, 4-120, 5-208, 6-235, 7-298, 8-298, 9-333.&#13;
+Bowling: Davis 12-0-72-1, Nash 25-4-77-3, Larsen 21-9-39-1, Hart  44-12-106-4, Thomson 24-8-37-0.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t2"/><TLINK relType="BEFORE" eventID="e5" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

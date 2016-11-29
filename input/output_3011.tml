@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>English <TIMEX3 tid="t1" type="DATE">Sunday</TIMEX3> League table after latest matches  (<EVENT eid="e1" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">played</EVENT>, won, <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">lost</EVENT>, <EVENT eid="e3" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">tied</EVENT>, no result, points. <TIMEX3 tid="t2" type="DATE">Last season</TIMEX3>'s final position in  brackets):&#13;
+P W L T NR Pts&#13;
+Surrey (3)           3 2 0 0  1 10&#13;
+Yorkshire (9)        3 2 0 0  1 10&#13;
+Hampshire (15)       3 2 1 0  0  8&#13;
+Warwickshire (10)    2 2 0 0  0  8&#13;
+Nottinghamshire (17) 3 1 0 0  2  8&#13;
+Durham (7)           3 1 0 0  2  8&#13;
+Derbyshire (11)      3 1 1 0  1  6&#13;
+Sussex (4)           3 1 1 0  1  6&#13;
+Worcestershire (16)  2 1 0 0  1  6&#13;
+Kent (2)             3 1 2 0  0  4&#13;
+Lancashire (6)       2 1 1 0  0  4&#13;
+Leicestershire (14)  2 1 1 0  0  4&#13;
+Glamorgan (1)        2 1 1 0  0  4&#13;
+Gloucestershire (13) 3 0 2 0  1  2&#13;
+Essex (12)           3 0 2 0  1  2&#13;
+Northamptonshire (5) 2 0 1 0  1  2&#13;
+Somerset (18)        2 0 2 0  0  0&#13;
+Middlesex (8)        2 0 2 0  0  0&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

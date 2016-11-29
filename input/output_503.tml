@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Eric Cantona's penalty <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">put</EVENT> Manchester United 1-0 up  in the English FA Cup final against Chelsea in <TIMEX3 tid="t1" type="DATE">the 61st minute here on  Saturday</TIMEX3>.&#13;
+mo94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

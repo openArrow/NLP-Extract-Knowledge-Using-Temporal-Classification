@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Jacqueline Kennedy Onassis has <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="none">died</EVENT>.&#13;
+dkb&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

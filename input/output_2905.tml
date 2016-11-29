@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Loris Capirossi, <EVENT eid="e1" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">riding</EVENT> a Honda, <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> the  the 250cc race in the Austrian motorcycle Grand Prix here <TIMEX3 tid="t1" type="DATE">Sunday</TIMEX3> ahead of  fellow Italian Massimiliano Biaggi on an Aprilia.&#13;
+Doriano Romboni of Italy, on a Honda, was third ahead of Tadayuki Okada of  Japan, on a Yamaha, who <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">maintained</EVENT> his world championship lead.&#13;
+rw94&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

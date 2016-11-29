@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Britain's Chris Boardman, who <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> <TIMEX3 tid="t1" type="DATE">Monday</TIMEX3>'s  prologue, <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">maintained</EVENT> the leader's yellow jersey after the first stage of the  Criterium du Dauphine Libere cycling race here on <TIMEX3 tid="t2" type="DATE">Tuesday</TIMEX3>.&#13;
+The former Olympic pursuit champion <EVENT eid="e3" class="ASPECTUAL" tense="PAST" aspect="NONE" polarity="POS" modality="none">finished</EVENT> in the leading pack (25th)  after the longest stage of the race to <EVENT eid="e4" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">hold</EVENT> the lead by a single second from  his GAN team-mate Jean-Philippe Dojwa.&#13;
+Germany's Marcel Wust <EVENT eid="e5" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> the closing sprint to <EVENT eid="e6" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">take</EVENT> the 224.5km stage  from Evian-les-Bains in the heart of the Alps down to Saint Priest, near Lyon.&#13;
+Stage&#13;
+1. Marcel Wust (Germany, Novemail) <EVENT eid="e7" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">5h</EVENT> 54:47&#13;
+2. Wiebren Veenstra (Neth)&#13;
+3. Emmanuel Magnien (France)&#13;
+4. Christophe Capelle (France)&#13;
+5. Bruno Thibout (France) all same time&#13;
+...&#13;
+7. Sean Kelly (Ireland)&#13;
+25. Chris Boardman (GB)&#13;
+34. Greg Lemond (USA)&#13;
+59. Neil Stephen (Australia)&#13;
+68. Stephen Hodge (Australia) all same time&#13;
+Overall&#13;
+1. Chris Boardman (GB, GAN) <EVENT eid="e8" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">6h</EVENT> 03:37&#13;
+2. Jean-Philippe Dojwa (Fra) at 1sec&#13;
+3. Emmanuel Magnien (Fra)    2&#13;
+4. Arturas Kasputis (Lithuania) 4&#13;
+5. Ronan Pensec (France) 5&#13;
+...&#13;
+22. <EVENT eid="e9" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">Lemond</EVENT> 19&#13;
+26. Hodge 22&#13;
+46. Stephen 36&#13;
+80. Kelly 57&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e5" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e3" relatedToEvent="e4"/><TLINK relType="BEFORE" eventID="e5" relatedToEvent="e6"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t2"/><TLINK relType="AFTER" eventID="e6" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

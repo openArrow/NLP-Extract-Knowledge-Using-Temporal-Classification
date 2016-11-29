@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Lavinia Milosovici, Gina Gogean, Nadia Hategan  and Simona Amanar <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> the women's title for Romania at the European team  gymnastics championships here on <TIMEX3 tid="t1" type="DATE">Thursday</TIMEX3>.&#13;
+Result&#13;
+1. Romania 117.785pts, 2. Russia 115.422, 3. Ukraine 115.221, 4. France  113.409, 5. Belarus 113.085, 6. Spain 112.674, 7. Letvia 110.309, 8. Israel  109.823, 9. Greece 109.235, 10. Italy 108.984&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

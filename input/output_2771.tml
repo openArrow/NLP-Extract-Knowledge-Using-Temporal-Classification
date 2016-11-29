@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Ivan Lendl's preparations for <TIMEX3 tid="t1" type="DATE">next week</TIMEX3>'s French Open  <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">received</EVENT> a setback when he was <EVENT eid="e2" class="I_ACTION" tense="PAST" aspect="NONE" polarity="POS" modality="none">beaten</EVENT> in the final of an exhibition tournament  here by Dutchman Jacco Eltingh.&#13;
+Final&#13;
+Jacco Eltingh (Neth) bt Ivan Lendl (USA) 6-2, 5-7, 6-2&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

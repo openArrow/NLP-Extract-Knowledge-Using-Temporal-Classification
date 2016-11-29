@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Feyenoord <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> second division Nijmegen 2-1 in  the Dutch Cup final on their own pitch here on <TIMEX3 tid="t1" type="DATE">Thursday</TIMEX3>.&#13;
+It was Feyenoord's third win in <TIMEX3 tid="t2" type="DURATION">four years</TIMEX3> and ninth all-told.&#13;
+Ruud Heus <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">opened</EVENT> the score with a seventh minute penalty and Feyenoord  <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">went</EVENT> further ahead through John van Loen in <TIMEX3 tid="t3" type="DURATION">the 80th minute</TIMEX3>.&#13;
+Bennie Dekker <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">scored</EVENT> a consolation goal for Nijmegen in <TIMEX3 tid="t4" type="DATE">the last minute</TIMEX3>.&#13;
+Dutch Cup Final&#13;
+Feyenoord 2 (Heus 7pen, van Loen 80) Nijmegen 1 (Dekker 90)&#13;
+<EVENT eid="e5" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">Att</EVENT>: 43,000&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e4" relatedToTime="t4"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

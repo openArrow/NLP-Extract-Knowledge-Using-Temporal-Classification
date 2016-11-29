@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Wales overwhelmed Portugal 102-11 in <TIMEX3 tid="t1" type="DATE">Tuesday</TIMEX3>'s  World Cup qualifier here.&#13;
+At half-time Wales <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">led</EVENT> 43-8.&#13;
+Result:&#13;
+Wales 102 Portugal 11&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

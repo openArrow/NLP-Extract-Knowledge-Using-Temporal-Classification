@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Wednesday</TIMEX3>'s show court programme at the French Open  (matches <EVENT eid="e1" class="ASPECTUAL" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">begin</EVENT> at <TIMEX3 tid="t2" type="DATE">1100 (0900</TIMEX3> GMT), x <EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">denotes</EVENT> seed):&#13;
+Centre Court&#13;
+Mary Pierce (France x12) versus Maria Francesca Bentivoglio (Italy)&#13;
+Pete Sampras (USA x1) v Marcelo Rios (Chile)&#13;
+Angelica Gavaldon (Mexico) v Mary-Joe Fernandez (USA x10)&#13;
+Stefano Pescosolido (Italy) v Jim Courier (USA x7)&#13;
+Court A&#13;
+Johanthan Stark (USA) v Fabrice Santoro (France)&#13;
+Steffi Graf (Germany x1) v Stephanie Rottier (Neth)&#13;
+Thomas Muster (Austria x11) v Andre Agassi (USA)&#13;
+Nathalie Tauziat (France) v Petra Ritter (Austria)&#13;
+Court No. 1&#13;
+Andrei Medvedev (Ukraine x4) v Nicklas Kulti (Sweden)&#13;
+Thierry Champion (France) v Richard Krajicek (Neth x16)&#13;
+Patrick Rafter (Australia) v Lionel Roux (France)&#13;
+am94&#13;
+<TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t2"/></TimeML>

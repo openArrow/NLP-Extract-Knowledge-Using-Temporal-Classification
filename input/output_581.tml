@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Saturday</TIMEX3>'s National Basketball Association  playoff <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">results</EVENT>:&#13;
+Second round (best-of-seven series)&#13;
+Indiana 101, Atlanta 81, Indiana lead series 2-1&#13;
+Utah 111, Denver 109, Utah lead series 3-1&#13;
+bb94&#13;
+<TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

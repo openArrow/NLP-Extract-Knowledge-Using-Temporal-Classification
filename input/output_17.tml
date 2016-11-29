@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Close of play scores on <TIMEX3 tid="t1" type="DATE">first day</TIMEX3> of English county  championship matches.&#13;
+Chelmsford: Kent 191 (T R Ward 67), Essex 25-0.&#13;
+Cardiff: Yorkshire 202-5 (R B Richardson 59, R J Blakey <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">51</EVENT> not out) v  Glamorgan.&#13;
+Leicester: Somerset 209-6 v Leicestershire.&#13;
+Nottingham: Durham 242 (W Larkins 91), Nottinghamshire 4-0.&#13;
+The Oval: Derbyshire 177-6 v Surrey.&#13;
+Hove: Hampshire 267-9 (R A Smith 124, W K M Benjamin <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">51</EVENT> not out) v Sussex.&#13;
+Worcester: Gloucestershire 155-4 (B C Broad 76) v Worcestershire.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

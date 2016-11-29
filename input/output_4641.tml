@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Michael Schumacher, who has <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="none">won</EVENT> the first  four races of the season, was fastest in <TIMEX3 tid="t1" type="DATE">Friday</TIMEX3>'s practice session for  <TIMEX3 tid="t2" type="DATE">Sunday</TIMEX3>'s Spanish Grand Prix.&#13;
+The German timed 1min 23.426sec in his Benetton-Ford, a full second faster  than Mika Hakkinen of Finland who <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">timed</EVENT> 1:24.580 in a McLaren-Peugeot.&#13;
+Damon Hill of Britain in a Williams-Renault was third fastest on 1:24.716  and fourth fastest was Jean Alesi of France who <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">timed</EVENT> 1:24.957 in his Ferrari.&#13;
+rw94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>England were <EVENT eid="e1" class="I_ACTION" tense="PAST" aspect="NONE" polarity="POS" modality="none">beaten</EVENT> 22-11 by  Orange Free State Province in the first match of their South African tour here  on <TIMEX3 tid="t1" type="DATE">Wednesday</TIMEX3>.&#13;
+The tourists <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">led</EVENT> 6-5 at half time.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

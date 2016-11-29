@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Scores after the first round of the PGA  Championship here on <TIMEX3 tid="t1" type="DATE">Friday</TIMEX3> (Great Britain and Ireland unless <EVENT eid="e1" class="I_ACTION" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">stated</EVENT>):&#13;
+66 - Ernie Els (S Africa)&#13;
+67 - Jose Maria Olazabal (Spain), Costatino Rocca (Italy)&#13;
+68 - Mark James, Ronan Rafferty, Sandy Lyle, Miguel-Angel Jimenez (Spain),  Wayne Riley (Australia)&#13;
+69 - Anders Forsbrand (Sweden), Peter Hedblom (Sweden), Chris Hall, Gordon  Brand Jnr, Eduaro Romero (Argentina), Joachim Haeggman (Sweden), Bernhard  Langer (Germany), Paul Lawrie, David R Jones&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

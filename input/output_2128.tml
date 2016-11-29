@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>England <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> New Zealand by 42 runs  here <TIMEX3 tid="t1" type="DATE">Thursday</TIMEX3> in the <TIMEX3 tid="t2" type="DURATION">55-over one-day</TIMEX3> international.&#13;
+England 224-8 (M A Atherton 81, C Pringle 5 45), New Zealand 182 (B A  Young 65).&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

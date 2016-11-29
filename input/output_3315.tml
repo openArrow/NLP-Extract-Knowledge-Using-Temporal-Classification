@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>The following is a list of the awards  <EVENT eid="e1" class="REPORTING" tense="PAST" aspect="NONE" polarity="POS" modality="none">announced</EVENT> <TIMEX3 tid="t1" type="DATE">Monday</TIMEX3> at the 47th Cannes International Film Festival:&#13;
+Golden Palm: "Pulp Fiction" by Quentin Tarantino, United States.&#13;
+Best Actor: Ge You, in Zhang Yimou's "To Live," China&#13;
+Best Actress: Italian Virna Lisi, in Patrice Chereau's "Queen Margot,"  France.&#13;
+Best Director: Nanni Moretti for "Caro Diario" (Dear Diary), Italy.&#13;
+Grand Jury Prize: jointly <EVENT eid="e2" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">awarded</EVENT> to Zhang Yimou's "To Live" and Nikita  Milkhalkov's "Burnt by the Sun."&#13;
+Jury prize: "La Reine Margot" (Queen Margot) by Patrice Chereau, France.&#13;
+Screenplay: Michel Blanc for "Grosse Fatigue" (Very Tired), France.&#13;
+Best Short: "El Heroe" (The Hero) by Carlos Carrera, Mexico. Special  mentions for shorts: "Lemming Aid" by Grant Lahood, New Zealand, and "Syrup"  by Paul Unwin, Britain.&#13;
+Other prizes <EVENT eid="e3" class="REPORTING" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">announced</EVENT> <TIMEX3 tid="t2" type="DATE">Sunday</TIMEX3>, <TIMEX3 tid="t3" type="DURATION">a day</TIMEX3> before the end of the festival, were  as follows:&#13;
+International Critics' Prize for films in official competition: "Exotica"  by Atom Egoyan, Canada.&#13;
+International Critics; Prize for films in parallel sections: "Bab el-Oued  City" by Merzak Allouache, Algeria.&#13;
+Ecumenical jury award: <EVENT eid="e4" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">given</EVENT> jointly to "To <EVENT eid="e5" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">Live</EVENT>" and "Burnt by the Sun."  The jury also <EVENT eid="e6" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">gave</EVENT> a special mention to "Rice People" by Cambodian Rithy Panh.&#13;
+UNESCO prize: "Curfew" by Palestian filmmaker Rashid Masharawi.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e5" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t2"/><TLINK relType="BEFORE" eventID="e6" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

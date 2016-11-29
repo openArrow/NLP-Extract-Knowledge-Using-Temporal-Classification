@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Close of play score on <TIMEX3 tid="t1" type="DATE">second day</TIMEX3> of New Zealand  <TIMEX3 tid="t2" type="DURATION">three-day</TIMEX3> tour match at Headingley on <TIMEX3 tid="t3" type="DATE">Wednesday</TIMEX3>:&#13;
+Yorkshire first innings: 408-5 declared (R J Blakey 84 not out, D Byas 68,  R B Richardson 63, C White 59)&#13;
+New Zealand first innings&#13;
+B.R. Hartland c Stemp b White      49&#13;
+B.A. Pocock c Richardson b Hartley  4&#13;
+M.D. Crowe c Blakey b Hartley       1&#13;
+K.R. Rutherford lbw b White        33&#13;
+M.J. Greatbatch c Blakey b White    0&#13;
+S.P. Fleming b White               10&#13;
+A.C. Parore c Weekes b White       17&#13;
+D.J. Nash not out                   8&#13;
+C. Pringle c Moxon b Robinson      21&#13;
+H.T. Davis c Blakey b Weekes        2&#13;
+M.B. Owens c Blakey b Weekes        1&#13;
+Extras: (b1 lb4 nb22)              27&#13;
+Total: (65.4 overs)               173&#13;
+Fall: 1-5. 2-17, 3-83, 4-87, 5-105, 6-126, 7-139, 8-166, 9-171.&#13;
+Bowling: Hartley 14-5-26-2, Weekes 9.4-1-43-2, Robinson 17-5-29-1, Stemp  10-2-28-0, White 15-5-42-5.&#13;
+New Zealand second innings&#13;
+B.A. Pocock c Sub  b White    26&#13;
+B.R. Hartland not out         60&#13;
+K.R. Rutherford not out        2&#13;
+Extras: (lb1 w1 nb8)          10&#13;
+Total: (1wkt)                 98&#13;
+Fall: 1-70&#13;
+To <EVENT eid="e1" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">bat</EVENT>: M D Crowe, S P Fleming, M J Greatbatch, A C Parore, D J Nash, C          Pringle, H T Davis, M B Owens.&#13;
+Bowling: Hartley 6-1-19-0, Weekes 7-1-48-0, White 7-3-25-1, Robinson  5-3-3-5-0&#13;
+<TLINK relType="AFTER" eventID="e1" relatedToTime="t0"/></TimeML>

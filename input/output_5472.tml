@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Norway coach Egil Olsen <EVENT eid="e1" class="REPORTING" tense="PAST" aspect="NONE" polarity="POS" modality="none">announced</EVENT> his 22-man World  Cup squad here on <TIMEX3 tid="t1" type="DATE">Monday</TIMEX3>:&#13;
+Goalkeepers: Erik Thorstvedt (Tottenham, England), Frode Grodaas  (Lillestroem), Ola By Rise (Rosenborg)&#13;
+Defenders: Gunnar Halle (Oldham, England), Erland Johnsen (Chelsea,  England), Rune Bratseth (Werder Bremen, Germany), Stig Inge Bjoernebye  (Rosenborg), Roger Nilsen (Sheffield United, England), Karl Petter Loeken  (Rosenborg), Alf Inge Haaland (Nottingham, England), Henning Berg (Blackburn,  England)&#13;
+Midielders: Jostein Flo (Sheffield United, England), Erik Mykland (Start),  Oeyvind Leonhardsen (Rosenborg), Kjetil Rekdal (Lierse, Belgium), Jahn Ivar  Jakobsen (Young Boys, Switzerland), Dan Eggen (Broendby, Denmark), Roar Strand  (Rosenborg), Lars Bohinen (Nottingham, England)&#13;
+Forwards: Jan Aage Fjoertoft (Swindon, England), Goeran Soerloth  (Bursaspor, Turkey), Sigurd Rushfeldt (Tromsoe)&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

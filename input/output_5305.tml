@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>The rand <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">firmed</EVENT> slightly against the dollar  at the opening here <TIMEX3 tid="t1" type="DATE">Monday</TIMEX3>, trading at 3.6318/33 after <TIMEX3 tid="t2" type="DATE">Friday</TIMEX3>'s <EVENT eid="e2" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">close</EVENT> of  3.6430/45.&#13;
+The financial rand for non-resident investors <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">opened</EVENT> at 4.79/81 to the  dollar, down from its previous close of 4.765/85.&#13;
+Gold <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">opened</EVENT> at 385.50/386.00 dollars an ounce, down from <TIMEX3 tid="t3" type="DATE">Friday</TIMEX3>'s New York  <EVENT eid="e5" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">close</EVENT> of 384.50/385.00.&#13;
+Other currencies:&#13;
+<TIMEX3 tid="t4" type="DATE">Monday</TIMEX3>'s opening   <TIMEX3 tid="t5" type="DATE">Friday</TIMEX3>'s close&#13;
+Sterling:         <TIMEX3 tid="t6" type="DATE">5.4836/41          5.4853/58</TIMEX3>&#13;
+German mark:      <TIMEX3 tid="t7" type="DATE">0.4527/32          0.4525/30</TIMEX3>&#13;
+Swiss franc:      <TIMEX3 tid="t8" type="DATE">0.3859/64          0.3861/66</TIMEX3>&#13;
+Yen:              28.73/78           28.69/74&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e5" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e5" relatedToTime="t3"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

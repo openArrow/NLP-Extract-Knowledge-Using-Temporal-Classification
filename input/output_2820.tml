@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Provisional lineup for the 78th  Indianapolis 500 after <TIMEX3 tid="t1" type="DATE">Saturday's third day</TIMEX3> of time trials, with driver,  nationality, <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">make</EVENT> of car and speed over the 10-mile (16km) qualifying run  (R-denotes rookie):&#13;
+Row One&#13;
+1. Al Unser Jnr (USA) <TIMEX3 tid="t2" type="DATE">1994</TIMEX3> Penske-Mercedes 228.011 mph (364.817 km/h)&#13;
+2. Raul Boesel (Brazil) <TIMEX3 tid="t3" type="DATE">1994</TIMEX3> Lola-Cosworth 227.618 mph (364.188)&#13;
+3. Emerson Fittipaldi (Brazil) Penske-Mercedes 227.303 mph (363.684)&#13;
+Row Two&#13;
+4. R-Jacques Villeneuve (Canada) <TIMEX3 tid="t4" type="DATE">1994</TIMEX3> Reynard-Cosworth 226.259 mph  (362.014)&#13;
+5. Michael Andretti (USA) <TIMEX3 tid="t5" type="DATE">1994</TIMEX3> Reynard-Cosworth 226.205 mph (361.928)&#13;
+6. Lyn St. James (USA) <TIMEX3 tid="t6" type="DATE">1994</TIMEX3> Reynard-Cosworth 224.154 mph (358.646)&#13;
+Row Three&#13;
+7. Nigel Mansell (England) <TIMEX3 tid="t7" type="DATE">1994</TIMEX3> Lola-Cosworth 224.041 mph (358.465)&#13;
+8. Arie Luyendyk (Netherlands) 1994 Lola-Ilmor 223.673 mph (357.876)&#13;
+9. Mario Andretti (USA) <TIMEX3 tid="t8" type="DATE">1994</TIMEX3> Lola-Cosworth 223.503 mph (357.604)&#13;
+Row Four&#13;
+10. John Andretti (USA) <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">1994</EVENT> Lola-Cosworth 223.263 mph (357.220)&#13;
+11. Eddie Cheever (USA) <TIMEX3 tid="t9" type="DATE">1993</TIMEX3> Lola-Menard 223.163 mph (357.060)&#13;
+12. Dominic Dobson (USA) <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">1994</EVENT> Lola-Cosworth 222.970 mph (356.752)&#13;
+Row Five&#13;
+13. Stan Fox (USA) <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">1994</EVENT> Reynard-Cosworth 222.867 mph (356.587)&#13;
+14. R-Hideshi Matsuda (Japan) <TIMEX3 tid="t10" type="DATE">1993</TIMEX3> Lola-Cosworth 222.545 mph (356.072)&#13;
+15. R-Dennis Vitolo (USA) <TIMEX3 tid="t11" type="DATE">1993</TIMEX3> Lola-Cosworth 222.439 mph (355.902)&#13;
+Row Six&#13;
+16. Jimmy Vasser (USA) 1994 Reynard-Cosworth 222.262 mph (355.619)&#13;
+17. R-Scott Sharp (USA) <EVENT eid="e5" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">1994</EVENT> Lola-Cosworth 222.091 mph (355.345)&#13;
+18. Hiro Matsushita (Japan) <TIMEX3 tid="t12" type="DATE">1994</TIMEX3> Lola-Cosworth 221.382 mph (354.211)&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e5" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Muluzi <EVENT eid="e1" class="REPORTING" tense="PAST" aspect="NONE" polarity="POS" modality="none">said</EVENT> he had not <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="PERFECTIVE" polarity="NEG" modality="none">picked</EVENT> anyone from the Alliance for Democracy  (AFORD) because <EVENT eid="e3" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">negotiations</EVENT> were still on with the party on power-sharing.&#13;
+Muluzi's UDF <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> 84 of the 177 seats in parliament, <EVENT eid="e5" class="I_ACTION" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">failing</EVENT> to <EVENT eid="e6" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">gain</EVENT> a  working majority and <EVENT eid="e7" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">forcing</EVENT> the party to <EVENT eid="e8" class="I_ACTION" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">seek</EVENT> a coalition with AFORD.&#13;
+"I have no problem <EVENT eid="e9" class="OCCURRENCE" tense="PRESPART" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="none">appointing</EVENT> anyone from AFORD," he <EVENT eid="e10" class="REPORTING" tense="PAST" aspect="NONE" polarity="POS" modality="none">said</EVENT>, although he  <EVENT eid="e11" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">gave</EVENT> most key portfolios, including those of foreign affairs and defence, to  his lieutenants.&#13;
+It had been widely <EVENT eid="e12" class="I_STATE" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="none">expected</EVENT> that Muluzi would <EVENT eid="e13" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="would">offer</EVENT> the position of home  affairs to AFORD leader Chakufwa Chihana.&#13;
+<EVENT eid="e14" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">Following</EVENT> is the full cabinet:&#13;
+President:                              Bakili Muluzi&#13;
+Vice president:                         Justin Malewezi&#13;
+Finance:                                Aleke Banda&#13;
+Commerce, industry and tourism:         Harry Thomson&#13;
+External affairs:                       Edward Bwanali&#13;
+Economic planning and development:      Tim Mangwazu&#13;
+Information and broadcasting:           Brown Mpinganjira&#13;
+Home affairs:                           Peter Fachi&#13;
+Defence:                                Cassim Chilumpha&#13;
+Education, science, technology:         Sam Mpasu&#13;
+Justice and attorney general:           Wehnam Nakanga&#13;
+Transport and communications:           Collins Chizumila&#13;
+Agriculture and livestock development:  John Nankumba&#13;
+Health and enmvironmental affairs:      George Mtafu&#13;
+Local government and rural development: James Makhumula&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e6" relatedToTime="t0"/><TLINK relType="INCLUDES" eventID="e9" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e11" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e13" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e2" relatedToEvent="e3"/><TLINK relType="BEFORE" eventID="e5" relatedToEvent="e7"/><TLINK relType="BEFORE" eventID="e12" relatedToEvent="e13"/><TLINK relType="BEFORE" eventID="e7" relatedToEvent="e8"/><TLINK relType="BEFORE" eventID="e5" relatedToEvent="e6"/><TLINK relType="AFTER" eventID="e1" relatedToEvent="e2"/><TLINK relType="BEFORE" eventID="e12" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e10" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e8" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Britain's Prince Charles visits (until 5)&#13;
+CORFU, Greece: EU conference on regional policies (and 4).&#13;
+<TIMEX3 tid="t1" type="DATE">Saturday June 4&#13;
+PORTSMOUTH</TIMEX3>, England:&#13;
+D-Day commemorations (until 5).&#13;
+CHEQUERS, CAMBRIDGE, PORTSMOUTH&#13;
+England:       US President Bill Clinton <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">visits</EVENT>&#13;
+KUWAIT CITY:   Verdict in trial of Iraqis <EVENT eid="e2" class="I_ACTION" tense="PAST" aspect="NONE" polarity="POS" modality="none">accused</EVENT> of attempted&#13;
+assassination of former US president George Bush.&#13;
+MIDDELBURG,&#13;
+Netherlands:   Award of the "Four freedoms prize" to the Dalai&#13;
+Lama.&#13;
+BEIJING:       Fifth anniversary of Tiananmen Square massacre.&#13;
+TEHRAN:        Fifth anniversary of the death of Iran's&#13;
+spiritual leader Ayatollah Khomeini.&#13;
+<TIMEX3 tid="t2" type="DATE">Sunday June 5</TIMEX3>&#13;
+ADDIS ABABA:   Election of constituent assembly.&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

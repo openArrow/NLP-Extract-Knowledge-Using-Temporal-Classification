@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Colombia's World Cup squad <EVENT eid="e1" class="REPORTING" tense="PAST" aspect="NONE" polarity="POS" modality="none">confirmed</EVENT> here  <TIMEX3 tid="t1" type="DATE">Tuesday</TIMEX3> is:&#13;
+Goalkeepers: Oscar Cordoba (America), Farid Mondragon (Argentinos  Juniors), Jose Maria Pazo (Junior).&#13;
+Defenders: Luis Fernando Herrera (Nacional), Nestor Ortiz (Caldas), Luis  Carlos Perea (Junior), Andres Escobar (Nacional), Alexis Mendoza (Junior),  Diego Leon Osorio (Nacional), Wilson Perez (America).&#13;
+Midfield: Leonel Alvarez (America), Hermann Gaviria (Nacional), Gabriel  Jaime Gomez (Nacional), Carlos Valderrama (Junior), Harold Lozano (America),  Freddy Rincon (Palmeiras), Mauricio Serna (Nacional).&#13;
+Forwards: Faustino Asprilla (Parma), Adolfo Valencia (Bayern Munich), Ivan  Rene Valenciano (Junior), Victor Aristizabal (Nacional), Anthony De Avila  (America).&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

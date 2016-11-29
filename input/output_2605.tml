@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Yemeni Vice-President Ali Salem al-Baid  <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">proclaimed</EVENT> the secession of southern Yemen <TIMEX3 tid="t1" type="DURATION">early Saturday four years</TIMEX3> after the  reunification of North and South Yemen.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

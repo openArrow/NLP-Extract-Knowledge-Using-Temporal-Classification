@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>The Dominican Republic's President Joaquin&#13;
+Balaguer, at 87 <EVENT eid="e1" class="I_ACTION" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">seeking</EVENT> his 7th term as&#13;
+president, <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">wrapped</EVENT> up his <EVENT eid="e3" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">campaign</EVENT> <TIMEX3 tid="t1" type="DATE">Friday</TIMEX3>&#13;
+with a huge <EVENT eid="e4" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">rally</EVENT> that <EVENT eid="e5" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">attracted</EVENT>&#13;
+tens of thousands of people.&#13;
+DRepublic-vote&#13;
+500 words around <TIMEX3 tid="t2" type="DATE">2200</TIMEX3> GMT&#13;
+by Arturo Gudino&#13;
+ADEN:            Southern leaders <EVENT eid="e6" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">put</EVENT> forward a seven-point&#13;
+ceasefire plan here <TIMEX3 tid="t3" type="DATE">Friday</TIMEX3> as <EVENT eid="e7" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">fighting</EVENT> between&#13;
+rival north and south Yemeni forces <EVENT eid="e8" class="ASPECTUAL" tense="PAST" aspect="NONE" polarity="POS" modality="none">continued</EVENT>&#13;
+to <EVENT eid="e9" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">rage</EVENT> outside the southern stronghold of Aden.&#13;
+Yemen (new series)&#13;
+650 words <EVENT eid="e10" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">moved</EVENT>&#13;
+GENEVA:          Western Europe, Russia and the US unite&#13;
+in a new peace <EVENT eid="e11" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">bid</EVENT> for war-wracked&#13;
+Bosnia as discontent back home underlines&#13;
+the limits of their combined sanctions,&#13;
+arms <EVENT eid="e12" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">embargo</EVENT> and peace troops policy to date.&#13;
+Yugo-talks-analysis&#13;
+500 words by <TIMEX3 tid="t4" type="DATE">2215</TIMEX3> GMT&#13;
+by Michael Anders&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e6" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e9" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e11" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e4" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e6" relatedToTime="t3"/><TLINK relType="BEFORE" eventID="e8" relatedToEvent="e9"/><TLINK relType="IS_INCLUDED" eventID="e6" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e3" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e12" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e10" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e8" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e5" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>President Hastings Kamuzu Banda of Malawi  <EVENT eid="e1" class="I_ACTION" tense="PAST" aspect="NONE" polarity="POS" modality="none">conceded</EVENT> defeat in elections in an address on state radio <TIMEX3 tid="t1" type="DATE">Thursday</TIMEX3> .&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/></TimeML>

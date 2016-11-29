@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Herewith a list of the winners of the  Golden Palm for <TIMEX3 tid="t1" type="DURATION">the last 20 years</TIMEX3>:&#13;
+1974: "The Conversation" by Francis Ford Coppola, US.&#13;
+1975: "Chronicle of the Burning Years" by Mohammed Lakhdar-Hamina, Algeria.&#13;
+<TIMEX3 tid="t2" type="DATE">1976</TIMEX3>: "Taxi Driver" by Martin Scorsese, US.&#13;
+1977: "Padre Padrone" by Paolo and Vittorio Taviani, Italy.&#13;
+<TIMEX3 tid="t3" type="DATE">1978</TIMEX3>: "The Tree of Wooden Clogs" by Ermanno Olmi, Italy.&#13;
+1979: "Apocalypse Now" by Francis Ford Coppola, US.&#13;
+"The Tin Drum" by Volker Schloendorff, Germany.&#13;
+1980: "Kagemusha," by Akira Kurosawa, Japan.&#13;
+"All That Jazz" by Bob Fosse, US<EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">.</EVENT>&#13;
+1981: "Man of Iron, by Andrzej Wajda, Poland.&#13;
+<TIMEX3 tid="t4" type="DATE">1982</TIMEX3>: "Missing" by Costa Gavras, US.&#13;
+"Yol" by Yilmaz Guney, Turkey.&#13;
+<TIMEX3 tid="t5" type="DATE">1983</TIMEX3>: "The Ballad of Narayama," by Shohei Imamura, Japan.&#13;
+1984: "Paris Texas" by Wim Wenders, Germany.&#13;
+<TIMEX3 tid="t6" type="DATE">1985</TIMEX3>: "When Father was away on Business" by Emir Kusturica, Yugoslavia.&#13;
+<TIMEX3 tid="t7" type="DATE">1986</TIMEX3>: "Mission" by Roland Joffe, Britain.&#13;
+<TIMEX3 tid="t8" type="DATE">1987</TIMEX3>: "Under Satan's Sun" by Maurice Pialat, France.&#13;
+<TIMEX3 tid="t9" type="DATE">1988</TIMEX3>: "Pelle the Conqueror" by Bille <TIMEX3 tid="t10" type="DATE">August</TIMEX3>, Denmark.&#13;
+<TIMEX3 tid="t11" type="DATE">1989</TIMEX3>: "Sex, Lies and Videotape" by Steven Sonderbergh, US.&#13;
+1990: "Wild at Heart" by David Lynch, US.&#13;
+1991: "Barton Fink" by Joel and Ethan Coen, US.&#13;
+1992: "The Best Intentions" by Bille <TIMEX3 tid="t12" type="DATE">August</TIMEX3>, Denmark&#13;
+1993: "The Piano" by Jane Campion, Australia&#13;
+"Farewell to My Concubine" by Chen Kaige, China.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

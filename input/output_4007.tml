@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Results in <TIMEX3 tid="t1" type="DATE">Wednesday</TIMEX3>'s Benson and Hedges Cup  <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">matches</EVENT>:&#13;
+Birmingham: Warwickshire <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> Kent 5-4 on bowl-out&#13;
+Southampton: Essex 124-3, Hampshire 127-1 (R A Smith <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">73</EVENT> not out).  Hampshire <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> Essex by 9 wkts.&#13;
+Nottingham: Nottinghamshire 275-8 (P R Pollard 104), Surrey 278-4 (D J  Bicknell 109, D M Ward 73). Surrey beat Nottinghamshire by 6 wkts.&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

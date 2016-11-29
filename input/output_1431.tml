@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Japan <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">held</EVENT> France 'A' to a 20-20 draw  in the men's International Handball Tournament here <TIMEX3 tid="t1" type="TIME">Tuesday night</TIMEX3>.&#13;
+The Japanese <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">led</EVENT> 12-8 at the interval.&#13;
+Scorers:&#13;
+France A: Neguede (2), Graillot (1), Anquetil (2), Rouvier (1), Nita (4),  Durban (1), Moualek (3), Cazal (3), Abadi (3).&#13;
+Japan: M. Tanaka (1), Tomimoto (2), S. Tanaka (3), Sato (1), Miwa (2),  Gennai (1), Shudo (3), Iwamoto (3), Fuji (4).&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

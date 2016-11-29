@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Saturday</TIMEX3>'s cricket results:&#13;
+Britannic Championship&#13;
+Worcester&#13;
+Worcestershire v Gloucestershire. Gloucestershire 390 (A J Wright 82, B C  Broad 76, T H C Hancock 58, N V Radford 4-70) and 50-1. Worcestershire 329-9  dec (G A Hick 150)&#13;
+Leicester&#13;
+Leicestershire v Somerset. Somerset 288 (A N Hayhurst 79 no, D J Millns  4-62) and 154-4 (M N Lathwell 86, N A Folland 50 no) v Leicestershire 409 (B F  Smith 95, P N Hepworth 60, A R Caddick 5-92)&#13;
+Chelmsford&#13;
+Essex v Kent. Kent 191 (T R Ward 67, R C Irani 4-27) and 60-0. Essex 541-5  dec (G A Gooch 236, P Prichard 109)&#13;
+Nottingham&#13;
+Nottinghamshire v Durham. Durham 242 (W Larkins 91) and 155 (J A Afford  5-48). Nottinghamshire 285 (P Johnson 101, J C Adams 60, P R Pollard 50, D A  Graveney 6-80) and 113-2. Nottinghamshire (22pts) beat Durham (5pts) by 8 wkts&#13;
+Cardiff&#13;
+Glamorgan v Yorkshire. Yorkshire 339 (R J Blakey 87, R B Richardson 59, D  Gough 54, S L Watkin 4 64, O D Gibson 4 86) and 170-3 (M D Moxon 88 no).  Glamorgan 208 (R D Stemp 5-48)&#13;
+The Oval&#13;
+Surrey v Derbyshire. Derbyshire 208 (J E Benjamin 4-56, M P Bicknell  4-56). Surrey 570-6 (D M Ward 294 no, G P Thorpe 114, A D Brown 92)&#13;
+Hove&#13;
+Sussex v Hampshire. Hampshire 267 (R A Smith 124, W K M Benjamin 51, F D  Stephenson 5-41, I <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">D</EVENT> K Salisbury 4-90) and 112-5 (F D Stephenson 5-39) v  Sussex 279 (M P Speight 126)&#13;
+Tetley Bitter Challenge&#13;
+Lords&#13;
+Middlesex v New Zealand. New Zealand 249-6 dec (S P Fleming 118 no) and  101-9. Middlesex 156-4 dec (J D Carr 57 no) Middlesex <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">drew</EVENT> with New Zealand&#13;
+Universities v Counties&#13;
+The Parks, Oxford&#13;
+Oxford University v Warwickshire. Warwickshire 175-3 (D P Ostler 119 no) v  Oxford University&#13;
+Fenners, Cambridge&#13;
+Cambridge University v Lancashire. Lancashire 185-1 (M A Atherton 86, N J  Speak 54 no)&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

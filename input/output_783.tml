@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Results on <TIMEX3 tid="t1" type="DATE">Sunday</TIMEX3> in the National Basketball  Association <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">playoffs</EVENT>:&#13;
+Second round, best-of-seven series&#13;
+Indiana 102, Atlanta 86, Indiana <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">lead</EVENT> series 3-1&#13;
+Houston 107, Phoenix 96, series <EVENT eid="e3" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">tied</EVENT> 2-2&#13;
+bb94&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

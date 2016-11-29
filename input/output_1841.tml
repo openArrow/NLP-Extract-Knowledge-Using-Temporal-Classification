@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>1973</TIMEX3> -- Ilie Nastase (Rom) <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">won</EVENT> the men's singles title on the <TIMEX3 tid="t2" type="DATE">Tuesday</TIMEX3> of  the <TIMEX3 tid="t3" type="DATE">third week</TIMEX3>&#13;
+MOST GAMES IN A SINGLES FINAL (after <EVENT eid="e2" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">introduction</EVENT> of tie-break in <TIMEX3 tid="t4" type="DATE">1973</TIMEX3>)&#13;
+51 games -- <TIMEX3 tid="t5" type="DATE">1984</TIMEX3>. Ivan Lendl (Czech) bt John McEnroe (USA) 3-6, 2-6, 6-4,  7-5, 7-5&#13;
+MOST GAMES IN A MATCH (after <EVENT eid="e3" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">introduction</EVENT> of tie-break)&#13;
+61 games -- <TIMEX3 tid="t6" type="DATE">1984</TIMEX3> 2nd round. Wojtek Fibak (Poland) bt Aaron Krickstein  (USA) 6-4, 2-6, 6-7, 7-5, 10-8&#13;
+LONGEST MATCH&#13;
+5 <EVENT eid="e4" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">hrs</EVENT> 25 mins -- <TIMEX3 tid="t7" type="DATE">1984</TIMEX3> 2nd round. John Frawley (Australia) bt Hans Schwaier  (W.Germany) 6-1, 4-6, 6-3, 6-7, 8-6.&#13;
+<EVENT eid="e5" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">DEFENDING</EVENT> CHAMPIONS&#13;
+Men: Sergi Bruguera (Spain)&#13;
+Women: Steffi Graf (Germany)&#13;
+FORMER CHAMPIONS COMPETING IN THIS YEAR'S TOURNAMENT&#13;
+Men: (4) Jim Courier (USA), Michael Chang (USA), Ivan Lendl (USA), Mats  Wilander (Sweden)&#13;
+Women (2) Arantxa Sanchez (Spain), Martina Navratilova (USA)&#13;
+PRIZEMONEY (in French Francs)&#13;
+Total -- 48,810,400 (8.07 per cent <EVENT eid="e6" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">increase</EVENT> on <TIMEX3 tid="t8" type="DATE">1993</TIMEX3>)&#13;
+Men's singles winner -- 3,160,000: Women's singles winner -- 2,930,000:  Men's doubles winners -- 1,300,000 each: Women's doubles winners -- 1,020,000  each: Mixed doubles winners -- 1,300,000 each&#13;
+kd94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e6" relatedToTime="t0"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t2"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t5"/><TLINK relType="IS_INCLUDED" eventID="e4" relatedToTime="t7"/><TLINK relType="IS_INCLUDED" eventID="e6" relatedToTime="t8"/><TLINK relType="IS_INCLUDED" eventID="e2" relatedToTime="t4"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t3"/><TLINK relType="IS_INCLUDED" eventID="e1" relatedToTime="t1"/><TLINK relType="BEFORE" eventID="e4" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

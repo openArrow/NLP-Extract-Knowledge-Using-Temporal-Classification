@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Close of play scores in <TIMEX3 tid="t1" type="DATE">second day</TIMEX3> of English  County Championship games:&#13;
+Derby: Derbyshire 230 (R A Pick 6-62) and 39-2, Nottinghamshire 199 (G F  Archer 52, D E Malcolm 5-59).&#13;
+Gloucester: Gloucestershire 192-4 (T H C Hancock 75) v Surrey&#13;
+Southport: Lancashire 521 (J P Crawley <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">281</EVENT> not out, N J Speak 87, J E R  Gallian 53, Mushtaq Ahmed 6-156), Somerset 103-5&#13;
+Leicester: Leicestershire 204 (P A Nixon 51), Kent 69-3&#13;
+Lords: Warwickshire 211, Middlesex 38-1&#13;
+Hove: Glamorgan 384-5 (A Dale 131, H Morris 106, D L Hemp 55) v Sussex.&#13;
+Worcester: Northamptonshire 112, Worcestershire 139-5&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

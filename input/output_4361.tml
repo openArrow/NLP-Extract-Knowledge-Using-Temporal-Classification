@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>In an all-Australian battle Mark Woodforde <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> Richard Fromberg 6-2, 7-5,  7-6 (7/1) to <EVENT eid="e2" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">earn</EVENT> a tough third-round clash against Kafelnikov.&#13;
+It was Woodforde's fifth win over Fromberg in as many meetings.&#13;
+(pickup results)&#13;
+kd94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e2" relatedToTime="t0"/></TimeML>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>United's Welsh striker Mark Hughes <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">put</EVENT> them 3-0 ahead after <EVENT eid="e2" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">punishing</EVENT> a  mistake by Chelsea defender Frank Sinclair in the <TIMEX3 tid="t1" type="DURATION">68th minute</TIMEX3>.&#13;
+mo94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="AFTER" eventID="e1" relatedToEvent="e2"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>

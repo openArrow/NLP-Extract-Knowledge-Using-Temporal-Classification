@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>The ruble was unchanged <TIMEX3 tid="t1" type="DATE">Tuesday</TIMEX3> in interbank  trading in Moscow at 1,877 rubles to the dollar.&#13;
+Volume was <EVENT eid="e1" class="STATE" tense="PAST" aspect="NONE" polarity="POS" modality="none">low</EVENT> with 8.95 million dollars traded.&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

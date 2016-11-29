@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Tuesday</TIMEX3>'s main matches on the show courts at the  French Open Tennis Championships (x-denotes <EVENT eid="e1" class="OCCURRENCE" tense="PASTPART" aspect="NONE" polarity="POS" modality="none">seeded</EVENT> player):&#13;
+Centre Court&#13;
+Sergi Bruguera (Spain x6) versus Martin Damm (Czech)&#13;
+Arantxa Sanchez (Spain x2) v Florencia Labat (Argentina)&#13;
+Arnaud Boetsch (France) v Ivan Lendl (USA)&#13;
+Patricia Tarabini (Argentina) v Julie Halard (France)&#13;
+Court A&#13;
+Jim Courier (USA x7) v Jean Philippe Fleurian (France)&#13;
+Beate Reinstadler (Austria) v Nathalie Tauziat (France)&#13;
+Cedric Pioline (France x14) v Jakob Hlasek (Switz)&#13;
+Anke Huber (Germany x11) v Sandrine Testud (France)&#13;
+Court No. 1&#13;
+Silvia Farina (Italy) v Gabriela Sabatini (Argentina x8)&#13;
+Kenrik Holm (Sweden) v. Stefan Edberg (Sweden x3)&#13;
+Jana Novotna (Czech x5) v Anna Smashnova (Israel)&#13;
+Renzo Furlan (Italy v Michael Stich (Germany x2)&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/></TimeML>

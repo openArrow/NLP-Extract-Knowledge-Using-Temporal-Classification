@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t1" type="DATE"><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Sunday</TIMEX3>'s final of the 300,000 dollar ATP  tournament here will be an all-Spanish affair with top-seed Alberto  Berasategui <EVENT eid="e1" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">facing</EVENT> third-seed Javier Sanchez.&#13;
+Berasategui <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">beat</EVENT> Italian Stefano Pescosolido 6-3, 6-2 while Sanchez  <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">defeated</EVENT> sixth-seeded Czech Slava Dosedel 7-5, 6-2.&#13;
+Semi-final results (x-denotes seeded player):&#13;
+Alberto Berasategui (Spain x1) bt Slava Dosedel (Czech x6) 7-5, 6-2&#13;
+Javier Sanchez (Spain x3) bt Stefano Pescosolido (Italy) 6-3, 6-2&#13;
+<TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e3" relatedToTime="t0"/></TimeML>

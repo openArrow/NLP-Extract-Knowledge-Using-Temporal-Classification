@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Leading second-round scores here on  <TIMEX3 tid="t1" type="DATE">Saturday</TIMEX3> in the Lady Keystone Open golf tournament:&#13;
+140 - Betsy King 70-70&#13;
+141 - Val Skinner 70-71, Laura Davies (GB) 70-71, Elaine Crosby 69-72,  Missie Berteotti 66-75&#13;
+142 - Tina Barrett 75-67, Missie McGeorge 74-68, Annika Sorenstam (Sweden)  72-70, Pearl Sinn 70-72, Brandie Burton 69-73&#13;
+.........&#13;
+143 - Sally Little (S Africa) 74-69, Jan Stephenson (Australia) 72-71,  Karen Lunn (Australia) 71-72&#13;
+144 - Jane Crafter (Australia) 73-71&#13;
+145 - Pamela Wright (GB) 73-72&#13;
+147 - Dawn Coe-Jones (Canada) 73-74&#13;
+148 - Hiromi Kobayashi (Japan) 72-76, Marta Figueras-Dotti (Spain)  71-77-148&#13;
+149 - Nicky Le Roux (S Africa) 75-74&#13;
+Failed to <EVENT eid="e1" class="I_STATE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">qualify</EVENT>&#13;
+150 - Jennifer Wyatt (Canada) 72-78, Nancy Harvey (Canada) 72-78&#13;
+151 - Mardi Lunn (Australia) 79-72, Caroline Pierce (GB) 76-75&#13;
+<TLINK relType="AFTER" eventID="e1" relatedToTime="t0"/></TimeML>

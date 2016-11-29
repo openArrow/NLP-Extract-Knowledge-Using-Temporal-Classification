@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><TimeML><TIMEX3 tid="t0" functionInDocument="CREATION_TIME"/>Jocelyn Angloma, at the end of his  contract, has <EVENT eid="e1" class="OCCURRENCE" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="none">moved</EVENT> from Olympique Marseille to newly-promoted Italian side  Torino for a reported 450 million lira (284,000 dollars). The <TIMEX3 tid="t1" type="DURATION">29-year-old</TIMEX3>  French international defender <EVENT eid="e2" class="OCCURRENCE" tense="PAST" aspect="NONE" polarity="POS" modality="none">signed</EVENT> for <TIMEX3 tid="t2" type="DURATION">three years</TIMEX3>.&#13;
+rw94&#13;
+<TLINK relType="BEFORE" eventID="e1" relatedToTime="t0"/><TLINK relType="BEFORE" eventID="e2" relatedToTime="t0"/></TimeML>
